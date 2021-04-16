@@ -26,7 +26,7 @@ and can be used throughout your projects.
 
 ::
 
-    pip install do-mpc
+    pip3 install do-mpc
 
 Tested on Windows and Linux (Ubuntu 19.04).
 
